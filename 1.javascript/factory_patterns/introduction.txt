@@ -1,0 +1,9 @@
+.......................................
+.......................................
+what is factories design pattern :
+    This is creational design pattern.
+    By which create object.
+    For create object we use abstract class or interface.
+    Create object with out new method.
+    Create object will decide run time.
+    Do not want expose object creation.
